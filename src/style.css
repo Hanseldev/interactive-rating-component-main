@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-orange-primary: hsl(25, 97%, 53%);
+  --color-orange-accent: hsl(25, 97%, 63%);
+
+  --color-grey-500: hsl(217, 12%, 63%);
+  --color-grey-800: hsl(213, 19%, 28%);
+  --color-grey-850: hsl(213, 19%, 23%);
+  --color-grey-900: hsl(213, 19%, 18%);
+  --color-grey-950: hsl(216, 12%, 8%);
+
+  --font-display: 'Overpass', sans-serif;
+}
